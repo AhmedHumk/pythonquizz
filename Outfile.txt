@@ -1,0 +1,5 @@
+ID-Name-Price-Quantity-Total
+A001-Watermelon-1.25-2-2.5
+A002-Bread-0.50-3-1.5
+Items = 2
+Total = 4.0 EGP
